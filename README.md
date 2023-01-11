@@ -13,7 +13,7 @@
 
 ## Server Workflow
 
-![image](https://user-images.githubusercontent.com/68071075/134900964-552f296d-bdfb-4d1e-98c3-c1afae770a6f.png)
+![image]()
 
 ## Run
 
