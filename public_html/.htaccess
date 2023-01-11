@@ -1,0 +1,4 @@
+AuthUserFile "/home/ajwc/SFSU/CSC667/Assignments/web-server/public_html/.htpasswd"
+AuthType Basic
+AuthName "I Challenge You"
+Require valid-user
